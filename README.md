@@ -75,8 +75,8 @@ Repository Link
 
 📫 Let’s Connect
 
-LinkedIn: linkedin.com/in/piotr-your-profile
+LinkedIn: linkedin.com/in/piotr-tajanowicz
 
-Email: your.email@example.com
+Email: piotr.tajanowicz@gmail.com
 
-Portfolio: piotr-portfolio.com
+Portfolio: piotrdevcan.github.io 
