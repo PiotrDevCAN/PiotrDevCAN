@@ -1,5 +1,5 @@
 
-👋 Hi there, I’m Piotr!
+👋 Hi there, I’m Peter!
 
 🌟 Full-Stack Developer | React, Node.js, PHP, Laravel, & Django Enthusiast
 
