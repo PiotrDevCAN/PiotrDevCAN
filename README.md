@@ -52,7 +52,7 @@ Expanding my knowledge of CI/CD pipelines and advanced backend frameworks.
 
 📌 Pinned Projects
 
-🏷 Winnipeg Cares
+🏷 Winnipeg Cares and Backend REST API
 
 A community-driven application to assist Winnipeg residents with localized services and tools.
 Tech Stack: React, Node.js, Firebase
